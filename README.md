@@ -1,4 +1,4 @@
 # my-demo
 This is my first repo.
 <br>
-Author - Ananya Rao R
+Author - Ananya (Rao R)
